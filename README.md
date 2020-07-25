@@ -2,7 +2,9 @@
 
  > Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and ❤ learning new spoken and coding languages. 
 
-- 🔭 I’m currently working as a .NET Developer for Produce Alliance
+🔭 I’m currently working as a .NET Developer for Produce Alliance. On the weekends I work on side projects! You can check out the promo site for the very soon to come web app here [https://telefriend.net]
+---
+
 
 
 
