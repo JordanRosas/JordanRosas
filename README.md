@@ -1,6 +1,6 @@
 # Hey, I'm Jordan ✌🏽
 
- - Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and ❤ learning new languages. 
+ > Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and ❤ learning new languages. 
 
 
 
