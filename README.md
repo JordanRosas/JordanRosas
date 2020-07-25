@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, I'm Jordan ✌🏽
+
+ - Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and ❤ learning new languages. 
+
+
 
 <!--
 **JordanRosas/JordanRosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
