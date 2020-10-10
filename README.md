@@ -1,6 +1,6 @@
 # Hey, I'm Jordan ✌🏽
 
- > Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and learning new spoken and coding languages. 
+ > Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and like learning new spoken and coding languages. 
  ---
 > 🔭 I’m currently working as a .NET Developer for Produce Alliance.
 ---
