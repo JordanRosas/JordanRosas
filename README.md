@@ -4,7 +4,7 @@
  ---
 > 🔭 I’m currently working as a .NET Developer for Produce Alliance.
 ---
-> 🎈 I'm super in to data structures and algorithms.
+> 🎈 Love learning about data structures and algorithms.
 ---
 > 📫 How to reach me: jordanrosasdev@gmail.com, Connect with me on Linkedin, 
 
