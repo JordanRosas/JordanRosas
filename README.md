@@ -1,10 +1,8 @@
 # Hey, I'm Jordan ✌🏽
 
- > Outside of being a full stack developer - I'm a huge fan of The Office, I play the cello, and like learning new spoken and coding languages. 
- ---
-> 🔭 I’m currently working as a .NET Developer for Produce Alliance.
+ > I am a full stack .NET developer @ Produce Alliance. 
 ---
-> 🎈 Love learning about data structures and algorithms.
+> 🎈 Data structure & Algorithm enthusiast 
 ---
 > 📫 How to reach me: jordanrosasdev@gmail.com, Connect with me on Linkedin, 
 
