@@ -1,8 +1,8 @@
 # Hey, I'm Jordan ✌🏽
 
- > I am a full stack .NET developer @ Produce Alliance. 
+ > I am a Software Developer @ FortyAU in Nashville, TN
 ---
-> 🎈 Data structure & Algorithm enthusiast 
+> 🎈 Data structure & Algorithm enthusiast
 ---
 > 📫 How to reach me: jordanrosasdev@gmail.com, Connect with me on Linkedin, 
 
