@@ -1,8 +1,6 @@
 # Hey, I'm Jordan ✌🏽
 
- > I am a Software Developer @ FortyAU in Nashville, TN
----
-> 🎈 Data structure & Algorithm enthusiast
+ > I am a Software Engineer @ FortyAU in Nashville, TN
 ---
 > 📫 How to reach me: jordanrosasdev@gmail.com, Connect with me on Linkedin, 
 
