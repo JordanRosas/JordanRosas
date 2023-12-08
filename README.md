@@ -1,6 +1,6 @@
 # Hey, I'm Jordan ✌🏽
 
- > I am a Software Engineer @ Proch Group 
+ > Software Engineer
 ---
 > 📫 How to reach me: jordanrosasdev@gmail.com, Connect with me on Linkedin, 
 
